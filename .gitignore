@@ -1,3 +1,13 @@
+# Development
+/[Dd]ebug/
+/[Rr]elease/
+/[Bb]uild/
+/[Tt]mp/
+lmdbfw.project
+lmdbfw.txt
+lmdbfw.mk
+main.c
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
