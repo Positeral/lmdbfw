@@ -20,7 +20,7 @@ ext = Extension('*',
                 ['lmdbfw/*.pyx', 'mdb.c', 'midl.c'],
                 include_dirs=['.'])
 
-setup(name='lre',
+setup(name='lmdbfw',
       packages=find_packages(),
       version='0.0.1',
       license='BSD License',
